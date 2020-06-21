@@ -1,4 +1,4 @@
-package org.mobileProgramming.maintermproject;
+package org.techtown.se_project_manager;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("org.mobileProgramming.maintermproject", appContext.getPackageName());
+        assertEquals("org.techtown.se_project_manager", appContext.getPackageName());
     }
 }
